@@ -24,7 +24,13 @@ I am a passionate, self-taught Web Developer and Tech Enthusiast based in Alexan
 * 💻 Developing local management systems (like Clinic LIS and Gym management apps).
 * 📝 Managing and writing technical guides on the **TeamWin** blog.
 * 🎮 Exploring game localization and tech modifications.
+  
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jibreelwin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibreelwin&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](رابط_حسابك_هنا)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/JibreelWin)
 [![Blog](https://img.shields.io/badge/Blog-TeamWin-%23F57C00.svg)](https://theteamwin.blogspot.com)
